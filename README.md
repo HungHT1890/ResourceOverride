@@ -1,12 +1,2 @@
-# Resource Override
-
-## ~~ This extension is now in maintenance mode!! ~~
-
-See what this means here: [maintenance_notice.md](maintenance_notice.md).
-
-Resource Override is an extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
-
-[Get the chrome extension here](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii).
-
-### Now on firefox!
-[Get the FireFox extension here](https://addons.mozilla.org/en-US/firefox/addon/resourceoverride/)
+Bài viết Facebook về cách dùng extension và bypass capcha bằng các inject js file
+[https://www.facebook.com/groups/autocsharp/posts/6822395984449249/?__cft__[0]=AZUYDa_BNrwko9ZG4-t5GhZuAaFUhFcFjxuGEP8QvNFH4HYL2rMhAiKvTBvDUOEukPb3I758CB0dfwevVucq4r74qhFEmj7-4TSf2lFLAmYp37U_zsArIZawi6iTA5oSSDAx9CqIepVwJNLo4hpHdRvOZ5E92wEeVKw-8ZMLVXFrDbNNSCjHeTgTlz3DKd2B9ug&__tn__=%2CO%2CP-R]
